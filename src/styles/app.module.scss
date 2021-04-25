@@ -1,0 +1,21 @@
+.wrapper{
+  display: flex;
+
+  main{
+    flex: 1;
+  }
+}
+
+@media (max-width: 736px){
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media ( min-width:768px )  and (max-width:1024px){
+    .wrapper{
+      display: flex;
+      flex-direction: column;
+    }
+}
