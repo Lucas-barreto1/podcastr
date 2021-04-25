@@ -21,11 +21,9 @@ Developed using React + Next + Typescript + JSON Server to display the data unde
 
 ## Comandos
 
-yarn ou npm install
+yarn or npm install
 <br/>
 yarn server ou npm run server 
-<br/>
-Em outra aba execute
 <br/>
 yarn dev ou npm run dev 
 
@@ -40,6 +38,6 @@ yarn dev ou npm run dev
 
 ## Responsivo
 
-| Home                                          | Home Tocando                                          | Detalhes do podcast                            |
+| Home - Dark Theme                             |  Home Light Theme                                     | Detalhes do podcast                            |
 | --------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------- |
 |     <img src="print6.png" width="250">        |         <img src="print4.png" width="250">            |        <img src="print5.png" width="250">      |
